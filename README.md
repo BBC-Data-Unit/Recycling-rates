@@ -4,6 +4,8 @@
 
 In March 2018 **David Rhodes** [reported](http://www.bbc.co.uk/news/uk-england-43197454) that recycling rates of councils serving 14 million households in England had fallen over five years.
 
+The story was based on an analysis of statistics held by the Department for the Environment, Food and Rural Affairs (Defra), and the Ministry of Housing, Communities and Local Government, with quotes from experts, politicians, councillors and councils with the biggest drops.
+
 ## Get the data
 
 * Department for Environment, Food & Rural Affairs: [ENV18 - Local authority collected waste: annual results tables](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables)
