@@ -10,7 +10,7 @@ The story was based on an analysis of statistics held by the Department for the 
 
 * Department for Environment, Food & Rural Affairs: [ENV18 - Local authority collected waste: annual results tables](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables)
 * Ministry of Housing, Communities & Local Government: [Local authority revenue expenditure and financing](https://www.gov.uk/government/collections/local-authority-revenue-expenditure-and-financing)
-* Local Government Intelligence Unit (LGIU): [State of Local Government Finance Survey 2018](https://www.lgiu.org.uk/report/lgiu-mj-state-of-local-government-finance-survey/)
+* Local Government Intelligence Unit (LGIU): [State of Local Government Finance Survey 2018](https://www.lgiu.org.uk/report/lgiu-mj-state-of-local-government-finance-survey/) ([cached here](https://github.com/BBC-Data-Unit/Recycling-rates/blob/master/LGiU-MJ-State-of-Local-Government-Finance-Survey-2018-Full-Report.pdf))
 
 ## Interviews and quotes
 
